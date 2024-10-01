@@ -1,0 +1,19 @@
+2024-10-01 01:21:04,834 [main] INFO ParaBanking - URL is opened
+2024-10-01 01:21:04,953 [main] INFO ParaBanking - User entered the User Name:
+2024-10-01 01:21:05,118 [main] INFO ParaBanking - User entered the password:
+2024-10-01 01:21:07,227 [main] INFO ParaBanking - URL is opened
+2024-10-01 01:21:07,245 [main] INFO ParaBanking - URL is opened
+2024-10-01 01:21:07,246 [main] INFO ParaBanking - User did not entered userId
+2024-10-01 01:21:07,247 [main] INFO ParaBanking - User did not entered password
+2024-10-01 01:21:07,247 [main] INFO ParaBanking - User click on login button.
+2024-10-01 01:26:33,142 [main] INFO ParaBanking - URL is opened
+2024-10-01 01:26:33,249 [main] INFO ParaBanking - User entered the User Name:
+2024-10-01 01:26:33,360 [main] INFO ParaBanking - User entered the password:
+2024-10-01 01:26:35,848 [main] INFO ParaBanking - User clicked on Login Button
+2024-10-01 01:26:38,248 [main] INFO ParaBanking - URL is opened
+2024-10-01 01:26:38,319 [main] INFO ParaBanking - Entered Invalid User Id
+2024-10-01 01:26:41,730 [main] INFO ParaBanking - Entered Wrong password
+2024-10-01 01:26:55,295 [main] INFO ParaBanking - URL is opened
+2024-10-01 01:26:55,310 [main] INFO ParaBanking - User did not entered userId
+2024-10-01 01:26:55,310 [main] INFO ParaBanking - User did not entered password
+2024-10-01 01:26:55,310 [main] INFO ParaBanking - User click on login button.
