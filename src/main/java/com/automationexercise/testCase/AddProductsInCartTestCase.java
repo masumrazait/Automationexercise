@@ -12,7 +12,7 @@ import com.automationexercise.pageObject.AddProductsInCart;
 
 public class AddProductsInCartTestCase extends BaseClass {
 
-	@Test(enabled = false)
+	@Test
 	public void AddProductsInCartTestCase_01() throws InterruptedException, IOException {
 		logger.info("URL is opened : " + baseURL);
 		AddProductsInCart apc = new AddProductsInCart(driver);
@@ -88,12 +88,12 @@ public class AddProductsInCartTestCase extends BaseClass {
 		logger.info("user view the cart details");
 
 		List<WebElement> rowNum = driver.findElements(By.xpath("//table[@class='table table-condensed']/tbody/tr"));
-		System.out.println("Total rows are : " + rowNum.size());
+		logger.info("Total rows are : " + rowNum.size());
 		List<WebElement> colNum = driver.findElements(By.xpath("//table[@class='table table-condensed']/tbody/tr[1]/td"));
-		System.out.println("Total cols are : " + colNum.size());
+		logger.info("Total cols are : " + colNum.size());
 		for (int rows = 1; rows <= rowNum.size(); rows++) {
 			for (int cols = 1; cols <= colNum.size(); cols++) {
-				System.out.print(driver.findElement(By.xpath("//table[@class='table table-condensed']/tbody/tr[" + rows + "]/td[" + cols + "]")).getText() + "   ");
+				logger.info(driver.findElement(By.xpath("//table[@class='table table-condensed']/tbody/tr[" + rows + "]/td[" + cols + "]")).getText() + "   ");
 			}
 			System.out.println();
 		}
