@@ -270,3 +270,39 @@ Add to cart
 2024-10-02 12:52:42,183 - ParaBanking -INFO - user Hover over Second product and click 'Add to cart'
 2024-10-02 12:52:45,212 - ParaBanking -INFO - user verify that product has been added to cart successfully
 2024-10-02 12:52:48,158 - ParaBanking -INFO - user view the cart details
+2024-10-02 13:01:28,673 - ParaBanking -INFO - URL is opened : https://automationexercise.com/
+2024-10-02 13:01:30,550 - ParaBanking -INFO - user clicked on product menu
+2024-10-02 13:01:30,564 - ParaBanking -INFO - https://automationexercise.com/products
+2024-10-02 13:01:30,566 - ParaBanking -INFO - user verify that products page is visible successfully
+2024-10-02 13:01:30,893 - ParaBanking -INFO - user Hover over first product and click 'Add to cart'
+2024-10-02 13:01:33,927 - ParaBanking -INFO - user verify that product has been added to cart successfully
+2024-10-02 13:01:33,952 - ParaBanking -INFO - user click On Continue Shopping 
+2024-10-02 13:01:35,627 - ParaBanking -INFO - user Hover over Second product and click 'Add to cart'
+2024-10-02 13:01:38,658 - ParaBanking -INFO - user verify that product has been added to cart successfully
+2024-10-02 13:01:40,233 - ParaBanking -INFO - user view the cart details
+2024-10-02 13:03:21,573 - ParaBanking -INFO - URL is opened : https://automationexercise.com/
+2024-10-02 13:03:24,256 - ParaBanking -INFO - user clicked on product menu
+2024-10-02 13:03:24,266 - ParaBanking -INFO - https://automationexercise.com/products
+2024-10-02 13:03:24,269 - ParaBanking -INFO - user verify that products page is visible successfully
+2024-10-02 13:03:24,558 - ParaBanking -INFO - user Hover over first product and click 'Add to cart'
+2024-10-02 13:03:27,598 - ParaBanking -INFO - user verify that product has been added to cart successfully
+2024-10-02 13:03:27,621 - ParaBanking -INFO - user click On Continue Shopping 
+2024-10-02 13:03:29,647 - ParaBanking -INFO - user Hover over Second product and click 'Add to cart'
+2024-10-02 13:03:32,674 - ParaBanking -INFO - user verify that product has been added to cart successfully
+2024-10-02 13:03:33,613 - ParaBanking -INFO - user view the cart details
+2024-10-02 13:03:33,640 - ParaBanking -INFO - Total rows are : 2
+2024-10-02 13:03:33,661 - ParaBanking -INFO - Total cols are : 6
+2024-10-02 13:03:33,689 - ParaBanking -INFO -    
+2024-10-02 13:03:33,720 - ParaBanking -INFO - Blue Top
+Women > Tops   
+2024-10-02 13:03:33,747 - ParaBanking -INFO - Rs. 500   
+2024-10-02 13:03:33,774 - ParaBanking -INFO - 1   
+2024-10-02 13:03:33,820 - ParaBanking -INFO - Rs. 500   
+2024-10-02 13:03:33,853 - ParaBanking -INFO -    
+2024-10-02 13:03:33,954 - ParaBanking -INFO -    
+2024-10-02 13:03:34,002 - ParaBanking -INFO - Men Tshirt
+Men > Tshirts   
+2024-10-02 13:03:34,025 - ParaBanking -INFO - Rs. 400   
+2024-10-02 13:03:34,054 - ParaBanking -INFO - 1   
+2024-10-02 13:03:34,099 - ParaBanking -INFO - Rs. 400   
+2024-10-02 13:03:34,135 - ParaBanking -INFO -    
