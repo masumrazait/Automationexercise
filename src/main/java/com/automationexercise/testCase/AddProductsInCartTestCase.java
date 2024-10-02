@@ -89,11 +89,15 @@ public class AddProductsInCartTestCase extends BaseClass {
 
 		List<WebElement> rowNum = driver.findElements(By.xpath("//table[@class='table table-condensed']/tbody/tr"));
 		logger.info("Total rows are : " + rowNum.size());
-		List<WebElement> colNum = driver.findElements(By.xpath("//table[@class='table table-condensed']/tbody/tr[1]/td"));
+		List<WebElement> colNum = driver
+				.findElements(By.xpath("//table[@class='table table-condensed']/tbody/tr[1]/td"));
 		logger.info("Total cols are : " + colNum.size());
 		for (int rows = 1; rows <= rowNum.size(); rows++) {
 			for (int cols = 1; cols <= colNum.size(); cols++) {
-				logger.info(driver.findElement(By.xpath("//table[@class='table table-condensed']/tbody/tr[" + rows + "]/td[" + cols + "]")).getText() + "   ");
+				logger.info(driver
+						.findElement(By.xpath(
+								"//table[@class='table table-condensed']/tbody/tr[" + rows + "]/td[" + cols + "]"))
+						.getText() + "   ");
 			}
 			System.out.println();
 		}
