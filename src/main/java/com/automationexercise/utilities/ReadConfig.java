@@ -178,4 +178,17 @@ public class ReadConfig {
 		return BillPayAmount;
 	}
 	
+	//----- logout by GOWTHAMI ------
+	
+	public String getEmailAddress() {
+		String EmailAddress = pro.getProperty("EmailAddress");
+		return EmailAddress;
+	}
+
+	public String getPassword() {
+		String Password = pro.getProperty("Password");
+		return Password;
+	}
+
+	
 }
