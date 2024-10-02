@@ -28,3 +28,245 @@
 2024-10-01 20:55:36,760 [main] INFO ParaBanking - User did not entered userId
 2024-10-01 20:55:36,760 [main] INFO ParaBanking - User did not entered password
 2024-10-01 20:55:36,762 [main] INFO ParaBanking - User click on login button.
+2024-10-02 02:12:42,994 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 02:12:44,510 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 02:12:44,523 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 02:12:44,977 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 02:15:07,621 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 02:15:10,706 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 02:15:10,715 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 02:15:10,720 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 02:15:11,113 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 02:19:37,667 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 02:19:39,587 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 02:19:39,600 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 02:19:39,603 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 02:21:03,188 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 02:21:06,415 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 02:21:06,423 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 02:21:06,430 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 02:21:06,887 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 02:21:09,933 [main] INFO ParaBanking - 
+2024-10-02 02:23:34,427 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 02:23:37,971 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 02:23:37,991 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 02:23:37,992 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 02:23:38,325 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 02:23:41,480 [main] INFO ParaBanking - Your product has been added to cart.
+2024-10-02 02:26:34,587 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 02:26:37,457 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 02:26:37,467 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 02:26:37,469 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 02:27:49,027 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 02:27:52,062 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 02:27:52,080 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 02:27:52,080 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 02:28:21,707 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 02:28:25,876 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 02:28:25,884 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 02:28:25,887 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 02:28:26,177 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 02:28:31,263 [main] INFO ParaBanking - Your product has been added to cart.
+2024-10-02 02:28:31,263 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 02:29:59,577 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 02:30:02,341 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 02:30:02,350 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 02:30:02,353 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:42:28,671 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:42:32,332 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:42:32,350 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:42:32,358 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:42:32,643 [main] INFO ParaBanking - Available ProductDetails: 1
+2024-10-02 10:42:32,711 [main] INFO ParaBanking - Rs. 500
+ Blue Top
+Add to cart
+2024-10-02 10:42:33,062 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:42:36,362 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:42:36,386 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:42:36,388 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:43:20,326 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:43:24,578 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:43:24,662 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:43:24,670 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:43:25,107 [main] INFO ParaBanking - Available ProductDetails: 1
+2024-10-02 10:43:25,175 [main] INFO ParaBanking - Rs. 500
+Blue Top
+Add to cart
+2024-10-02 10:43:25,418 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:43:28,175 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:43:28,286 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:43:28,287 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:43:29,001 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 10:44:37,679 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:44:40,220 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:44:40,245 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:44:40,252 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:44:40,557 [main] INFO ParaBanking - Available ProductDetails: 1
+2024-10-02 10:44:40,630 [main] INFO ParaBanking - Rs. 500
+Blue Top
+Add to cart
+2024-10-02 10:44:40,925 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:44:43,718 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:44:43,739 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:44:43,740 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:48:23,689 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:48:26,988 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:48:26,998 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:48:27,000 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:48:27,081 [main] INFO ParaBanking - Available ProductDetails: 1
+2024-10-02 10:48:27,159 [main] INFO ParaBanking - Rs. 500
+Blue Top
+Add to cart
+2024-10-02 10:48:27,237 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:48:29,756 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:48:29,763 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:48:29,764 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:53:00,724 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:53:03,869 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:53:03,879 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:53:03,882 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:53:08,354 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:53:11,581 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:53:11,588 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:53:11,588 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 10:53:11,660 [main] INFO ParaBanking - Available ProductDetails: 1
+2024-10-02 10:53:11,720 [main] INFO ParaBanking - Rs. 500
+Blue Top
+Add to cart
+2024-10-02 10:54:11,495 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 10:54:15,259 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 10:54:15,269 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 10:54:15,271 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:44:34,150 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:44:37,371 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:44:37,384 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:44:37,386 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:46:03,519 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:46:05,639 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:46:05,651 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:46:05,653 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:47:45,841 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:47:47,063 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:47:47,100 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:47:47,103 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:47:47,475 [main] INFO ParaBanking - scrollfown
+2024-10-02 11:48:16,863 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:48:18,993 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:48:19,002 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:48:19,004 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:48:19,202 [main] INFO ParaBanking - scrollfown
+2024-10-02 11:48:42,743 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:48:46,802 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:48:46,811 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:48:46,814 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:48:47,056 [main] INFO ParaBanking - scrollfown
+2024-10-02 11:49:12,180 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:49:15,886 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:49:15,895 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:49:15,897 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:49:16,157 [main] INFO ParaBanking - scrollfown
+2024-10-02 11:50:08,104 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:50:09,877 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:50:09,899 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:50:09,901 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:50:10,120 [main] INFO ParaBanking - scrollfown
+2024-10-02 11:51:37,801 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:51:41,384 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:51:41,392 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:51:41,393 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:51:41,602 [main] INFO ParaBanking - scrollfown
+2024-10-02 11:52:34,976 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:52:37,147 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:52:37,155 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:52:37,159 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:52:37,341 [main] INFO ParaBanking - scrollfown
+2024-10-02 11:53:05,800 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:53:07,697 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:53:07,703 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:53:07,708 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:53:07,921 [main] INFO ParaBanking - scrollfown
+2024-10-02 11:55:22,379 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:55:24,683 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:55:24,694 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:55:24,698 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:55:24,959 [main] INFO ParaBanking - scrollfown
+2024-10-02 11:56:20,182 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 11:56:23,119 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 11:56:23,128 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 11:56:23,130 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 11:56:23,345 [main] INFO ParaBanking - scrollfown
+2024-10-02 11:56:26,382 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 11:56:33,416 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:03:37,861 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 12:03:41,049 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 12:03:41,058 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 12:03:41,061 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 12:03:41,280 [main] INFO ParaBanking - scrollfown
+2024-10-02 12:03:44,304 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 12:03:51,356 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:05:21,080 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 12:05:24,812 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 12:05:24,821 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 12:05:24,823 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 12:05:25,055 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 12:06:47,066 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 12:06:48,753 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 12:06:48,764 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 12:06:48,767 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 12:06:49,052 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 12:07:36,690 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 12:07:38,923 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 12:07:38,932 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 12:07:38,935 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 12:07:39,194 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 12:07:42,238 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:14:54,386 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 12:14:58,232 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 12:14:58,241 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 12:14:58,243 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 12:16:00,940 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 12:16:03,594 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 12:16:03,602 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 12:16:03,605 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 12:16:03,852 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 12:16:06,897 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:16:06,914 [main] INFO ParaBanking - user click On Continue Shopping 
+2024-10-02 12:21:54,658 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 12:21:56,788 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 12:21:56,794 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 12:21:56,799 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 12:21:57,081 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 12:22:00,149 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:22:00,182 [main] INFO ParaBanking - user click On Continue Shopping 
+2024-10-02 12:22:03,440 [main] INFO ParaBanking - user Hover over Second product and click 'Add to cart'
+2024-10-02 12:22:06,467 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:47:22,975 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 12:47:25,674 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 12:47:25,689 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 12:47:25,691 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 12:47:25,928 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 12:47:28,964 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:47:28,982 [main] INFO ParaBanking - user click On Continue Shopping 
+2024-10-02 12:47:31,367 [main] INFO ParaBanking - user Hover over Second product and click 'Add to cart'
+2024-10-02 12:47:34,396 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:47:35,814 [main] INFO ParaBanking - user view the cart details
+2024-10-02 12:48:07,118 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 12:48:09,308 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 12:48:09,323 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 12:48:09,326 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 12:48:09,572 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 12:48:12,616 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:48:12,634 [main] INFO ParaBanking - user click On Continue Shopping 
+2024-10-02 12:48:15,175 [main] INFO ParaBanking - user Hover over Second product and click 'Add to cart'
+2024-10-02 12:48:18,195 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:48:18,980 [main] INFO ParaBanking - user view the cart details
+2024-10-02 12:52:34,342 [main] INFO ParaBanking - URL is opened : https://automationexercise.com/
+2024-10-02 12:52:36,923 [main] INFO ParaBanking - user clicked on product menu
+2024-10-02 12:52:36,939 [main] INFO ParaBanking - https://automationexercise.com/products
+2024-10-02 12:52:36,942 [main] INFO ParaBanking - user verify that products page is visible successfully
+2024-10-02 12:52:37,209 [main] INFO ParaBanking - user Hover over first product and click 'Add to cart'
+2024-10-02 12:52:40,260 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:52:40,292 [main] INFO ParaBanking - user click On Continue Shopping 
+2024-10-02 12:52:42,183 [main] INFO ParaBanking - user Hover over Second product and click 'Add to cart'
+2024-10-02 12:52:45,212 [main] INFO ParaBanking - user verify that product has been added to cart successfully
+2024-10-02 12:52:48,158 [main] INFO ParaBanking - user view the cart details

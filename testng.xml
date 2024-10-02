@@ -8,7 +8,7 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.automationexercise.testCase.BaseClass" />
-			<class name="com.automationexercise.testCase.PB_Login_TestCase" />
+			<class name="com.automationexercise.testCase.AddProductsInCartTestCase" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
