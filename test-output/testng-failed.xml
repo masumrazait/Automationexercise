@@ -7,14 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.automationexercise.testCase.PB_Login_TestCase">
+      <class name="com.automationexercise.testCase.AddProductsInCartTestCase">
         <methods>
           <include name="setup"/>
-          <include name="loginTestInvalidCredentials"/>
-          <include name="loginTest"/>
           <include name="tearDown"/>
+          <include name="AddProductsInCartTestCase_02"/>
         </methods>
-      </class> <!-- com.automationexercise.testCase.PB_Login_TestCase -->
+      </class> <!-- com.automationexercise.testCase.AddProductsInCartTestCase -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

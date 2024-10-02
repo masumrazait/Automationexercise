@@ -9,6 +9,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.OutputType;
@@ -18,6 +19,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -32,24 +34,18 @@ public class BaseClass {
 	public static WebDriver driver;
 	public static Logger logger;
 	public boolean acceptNextAlert = true;
+    public Actions actions;
+
 
 	@Parameters("browser")
 	@BeforeClass
 	public void setup(String br) {
-		// log
 		logger = Logger.getLogger("ParaBanking");
 		PropertyConfigurator.configure("Log4j.properties");
-
 		if (br.equals("chrome")) {
 			System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver.exe");
 			driver = new ChromeDriver();
-		}
-
-		/*
-		 * if (br.equals("chrome")) { WebDriverManager.chromedriver().setup(); driver =
-		 * new ChromeDriver(); }
-		 */
-		else if (br.equals("firefox")) {
+		} else if (br.equals("firefox")) {
 			System.setProperty("webdriver.gecko.driver", readconfig.getFirefoxPath());
 			driver = new FirefoxDriver();
 		} else if (br.equals("ie")) {
@@ -61,16 +57,29 @@ public class BaseClass {
 		}
 
 		driver.get(baseURL);
-
-		// To maximize browser
 		driver.manage().window().maximize();
-
-		// Implicit wait
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-
 		WebDriverWait wait = new WebDriverWait(driver, 10);
+        actions = new Actions(driver); // Initialize Actions object
 
+		
 	}
+
+	// Method to scroll down by a specific number of pixels
+	public void scrollByPixels(int pixels) {
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("window.scrollBy(0," + pixels + ");");
+	}
+
+	// Method to scroll down by 8000 pixels
+		public void scrollDown8000Pixels() {
+			scrollByPixels(8000);
+		}
+		
+		// Method to scroll down by 8000 pixels
+		public void scrollDown8400Pixels() {
+			scrollByPixels(9000);
+		}
 
 	@AfterClass
 	public void tearDown() {
