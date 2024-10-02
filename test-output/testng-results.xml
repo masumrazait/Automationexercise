@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-02T13:03:15 IST" name="Suite" finished-at="2024-10-02T13:03:34 IST" duration-ms="18672">
+  <suite started-at="2024-10-02T15:10:15 IST" name="Suite" finished-at="2024-10-02T15:10:35 IST" duration-ms="19963">
     <groups>
     </groups>
-    <test started-at="2024-10-02T13:03:15 IST" name="Test" finished-at="2024-10-02T13:03:34 IST" duration-ms="18672">
+    <test started-at="2024-10-02T15:10:15 IST" name="Test" finished-at="2024-10-02T15:10:35 IST" duration-ms="19963">
       <class name="com.automationexercise.testCase.AddProductsInCartTestCase">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexercise.testCase.AddProductsInCartTestCase@598bd2ba]" started-at="2024-10-02T13:03:16 IST" name="setup" finished-at="2024-10-02T13:03:21 IST" duration-ms="5377" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexercise.testCase.AddProductsInCartTestCase@598bd2ba]" started-at="2024-10-02T15:10:16 IST" name="setup" finished-at="2024-10-02T15:10:20 IST" duration-ms="4532" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="AddProductsInCartTestCase_02()[pri:0, instance:com.automationexercise.testCase.AddProductsInCartTestCase@598bd2ba]" started-at="2024-10-02T13:03:21 IST" name="AddProductsInCartTestCase_02" finished-at="2024-10-02T13:03:34 IST" duration-ms="12576" status="PASS">
+        <test-method signature="AddProductsInCartTestCase_01()[pri:0, instance:com.automationexercise.testCase.AddProductsInCartTestCase@598bd2ba]" started-at="2024-10-02T15:10:20 IST" name="AddProductsInCartTestCase_01" finished-at="2024-10-02T15:10:22 IST" duration-ms="2126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProductsInCartTestCase_01 -->
+        <test-method signature="AddProductsInCartTestCase_02()[pri:0, instance:com.automationexercise.testCase.AddProductsInCartTestCase@598bd2ba]" started-at="2024-10-02T15:10:22 IST" name="AddProductsInCartTestCase_02" finished-at="2024-10-02T15:10:35 IST" duration-ms="12477" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddProductsInCartTestCase_02 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.testCase.AddProductsInCartTestCase@598bd2ba]" started-at="2024-10-02T13:03:34 IST" name="tearDown" finished-at="2024-10-02T13:03:34 IST" duration-ms="380" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.testCase.AddProductsInCartTestCase@598bd2ba]" started-at="2024-10-02T15:10:35 IST" name="tearDown" finished-at="2024-10-02T15:10:35 IST" duration-ms="448" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
