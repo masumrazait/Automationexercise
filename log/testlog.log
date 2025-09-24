@@ -408,3 +408,37 @@ Men > Tshirts
 2025-09-24 21:23:57,923 - ParaBanking -INFO - 1   
 2025-09-24 21:23:57,963 - ParaBanking -INFO - Rs. 400   
 2025-09-24 21:23:57,999 - ParaBanking -INFO -    
+2025-09-24 21:33:36,963 - ParaBanking -INFO - URL is opened : https://automationexercise.com/
+2025-09-24 21:33:40,792 - ParaBanking -INFO - user clicked on product menu
+2025-09-24 21:33:40,800 - ParaBanking -INFO - https://automationexercise.com/products
+2025-09-24 21:33:40,802 - ParaBanking -INFO - user verify that products page is visible successfully
+2025-09-24 21:33:40,854 - ParaBanking -INFO - Available ProductDetails: 1
+2025-09-24 21:33:40,888 - ParaBanking -INFO - Rs. 500
+Blue Top
+Add to cart
+2025-09-24 21:33:41,009 - ParaBanking -INFO - URL is opened : https://automationexercise.com/
+2025-09-24 21:33:43,611 - ParaBanking -INFO - user clicked on product menu
+2025-09-24 21:33:43,626 - ParaBanking -INFO - https://automationexercise.com/products
+2025-09-24 21:33:43,627 - ParaBanking -INFO - user verify that products page is visible successfully
+2025-09-24 21:33:43,891 - ParaBanking -INFO - user Hover over first product and click 'Add to cart'
+2025-09-24 21:33:46,946 - ParaBanking -INFO - user verify that product has been added to cart successfully
+2025-09-24 21:33:46,976 - ParaBanking -INFO - user click On Continue Shopping 
+2025-09-24 21:33:53,267 - ParaBanking -INFO - user Hover over Second product and click 'Add to cart'
+2025-09-24 21:33:56,319 - ParaBanking -INFO - user verify that product has been added to cart successfully
+2025-09-24 21:33:58,052 - ParaBanking -INFO - user view the cart details
+2025-09-24 21:33:58,082 - ParaBanking -INFO - Total rows are : 2
+2025-09-24 21:33:58,105 - ParaBanking -INFO - Total cols are : 6
+2025-09-24 21:33:58,144 - ParaBanking -INFO -    
+2025-09-24 21:33:58,173 - ParaBanking -INFO - Blue Top
+Women > Tops   
+2025-09-24 21:33:58,225 - ParaBanking -INFO - Rs. 500   
+2025-09-24 21:33:58,272 - ParaBanking -INFO - 1   
+2025-09-24 21:33:58,305 - ParaBanking -INFO - Rs. 500   
+2025-09-24 21:33:58,359 - ParaBanking -INFO -    
+2025-09-24 21:33:58,386 - ParaBanking -INFO -    
+2025-09-24 21:33:58,402 - ParaBanking -INFO - Men Tshirt
+Men > Tshirts   
+2025-09-24 21:33:58,425 - ParaBanking -INFO - Rs. 400   
+2025-09-24 21:33:58,450 - ParaBanking -INFO - 1   
+2025-09-24 21:33:58,482 - ParaBanking -INFO - Rs. 400   
+2025-09-24 21:33:58,514 - ParaBanking -INFO -    
