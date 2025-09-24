@@ -12,6 +12,7 @@
           <include name="setup"/>
           <include name="tearDown"/>
           <include name="AddProductsInCartTestCase_02"/>
+          <include name="AddProductsInCartTestCase_01"/>
         </methods>
       </class> <!-- com.automationexercise.testCase.AddProductsInCartTestCase -->
     </classes>
